@@ -22,7 +22,7 @@ the world of animals.
 - As a user i want to find information in **general** about several types of animals.
 - As a user i want to find information about several types of animals in **depth for extra information**.
 - As a user i want i want to experience several **images** of the nature and animals.
-- As a user i want to find a **contact forum** that is provided with **radio buttons** for different alternatives.
+- As a user i want to find a **contact form** that is provided with **radio buttons** for different alternatives.
 
 ### User stories
 
@@ -39,7 +39,7 @@ the world of animals.
 
 - To provide **more images** rather than text to attract the users so that they can digest for more information.
 
-- In the contact forum there will be a **message box** provided for the user , if they have any **related questions** towards the site.
+- In the contact form there will be a **message box** provided for the user , if they have any **related questions** towards the site.
 
 
 ### Requirements 
