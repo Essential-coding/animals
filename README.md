@@ -1,6 +1,6 @@
 # Animals
 
-Enjoy the nature environment of different types of animals across the globe.
+*Enjoy the nature environment of different types of animals across the globe.*
 
  ![night-owl](owl.jpg)
 
@@ -10,3 +10,4 @@ Enjoy the nature environment of different types of animals across the globe.
 
 
 ### Project Goals
+
