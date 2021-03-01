@@ -42,6 +42,14 @@ the world of animals.
 - In the contact forum there will be a **message box** provided for the user , if they have any **related questions** towards the site.
 
 
+### Requirements 
+
+- Navigate through the website using the navbar to access different sections of the page as well as other pages.
+
+- Access the read more buttons for information in depth.
+
+
+
 
 
 
