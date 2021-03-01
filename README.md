@@ -44,13 +44,13 @@ the world of animals.
 
 ### Requirements 
 
-- Navigate through the website using the navbar to access different sections of the page as well as other pages.
+- Navigate through the website using the **navbar** to access different sections of the page as well as other pages.
 
-- Access the read more buttons for information in depth.
+- Access the **read more buttons** for information in depth.
 
-- Access the contact form by adding your e-mail address.
+- Access the contact form by adding your **e-mail address**.
 
-- Different types of information on different types of images.
+- Different types of **information** on different types of **images**.
 
 
 
