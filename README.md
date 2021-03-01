@@ -29,6 +29,10 @@ the world of animals.
 - As a user i would like my site to be **entertaining** so that it can motivate the users.
 - As a user i would like to be as **informative** as possible and to **educate** the users about animals.
 - As a user i want to contact the owner of the site for **additional information** and **suggestions**.
+- As a user i want to access social media links such as instagram, facebook etc.
+
+
+
 
 
 
