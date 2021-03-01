@@ -48,6 +48,11 @@ the world of animals.
 
 - Access the read more buttons for information in depth.
 
+- Access the contact form by adding your e-mail address.
+
+- Different types of information on different types of images.
+
+
 
 
 
