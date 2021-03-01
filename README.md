@@ -50,7 +50,7 @@ the world of animals.
 
 - Access the contact form by adding your **e-mail address**.
 
-- Different types of **information** on different types of **images**.
+- Access different types of **information** on different types of **images**.
 
 
 
