@@ -31,6 +31,17 @@ the world of animals.
 - As a user i want to contact the owner of the site for **additional information** and **suggestions**.
 - As a user i want to access **social media links** such as instagram, facebook etc.
 
+### Site Owner Goals
+
+- To easily **access** the site without any issues and to make it look simple.
+
+- To **understand** the information in such a way that it wont be boring.
+
+- To provide **more images** rather than text to attract the users so that they can digest for more information.
+
+- In the contact forum there will be a **message box** provided for the user , if they have any **related questions** towards the site.
+
+
 
 
 
