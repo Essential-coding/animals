@@ -53,6 +53,20 @@ the world of animals.
 - Access different types of **information** on different types of **images**.
 
 
+### Wireframes
+
+
+For the wireframes i used [marvelapp](https://marvelapp.com/). It was easy to structure and sort small thinks like navbar and images.
+It was also easy to edit somethings like the size of a text and to place it in the same angle as the image.
+
+I created wireframes for:
+
+- Mobile wireframe
+
+- Tablet wireframe
+
+- Desktop wireframe
+
 
 
 
