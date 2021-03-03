@@ -1,0 +1,41 @@
+
+
+
+
+.navbar-collapse{
+    flex-grow:0;
+}
+
+
+.lion-logo img{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width:35%;
+    border-radius:50%;
+}
+
+
+
+li:link{
+    color:#fff;
+}
+
+
+
+li:hover{
+    background-color:#000;
+    font-size:1.5rem;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color:#fff;
+}
+
+
+
+/*
+a.navbar-brand.lion-logo{
+    width:50%;
+
+}*/
