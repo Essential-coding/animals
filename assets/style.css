@@ -4,6 +4,9 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+
+/*---------------------------------------------colors*/
+
 .navbar-light .navbar-nav .nav-link {
     color: #fff;
 
@@ -12,6 +15,23 @@ body{
 .nav-bg-color{
     background-color:rgba(250, 120, 0, 0.4);
 }
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color:#fff;
+}
+
+
+.hvr-glow{
+    color:#fff!important;
+}
+
+
+li a:hover{
+    background-color:#000;
+}
+
+
+
 
 .navbar-collapse{
     flex-grow:0;
@@ -23,24 +43,16 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     border-radius:50%;
+    opacity:0.8;
 }
 
 
-
-li:link{
-    color:#fff;
-}
 
 
 
 li a:hover{
-    background-color:#000;
-    font-size:1.2rem;
+    font-size:1.5rem;
     width:fit-content;
-}
-
-.navbar-light .navbar-nav .nav-link:hover{
-    color:#fff;
 }
 
 .navbar-brand{
@@ -127,7 +139,7 @@ li a:hover{
         font-size:3rem;
     }
     .nav-link{
-        font-size:1.3rem;
+        font-size:1.2rem;
         margin: 0 1rem;
     }
 
@@ -136,6 +148,9 @@ li a:hover{
     height:30vh;
 
 }
+    .navbar-brand{
+      width:8%;  
+    }
 
     
 }
@@ -151,7 +166,7 @@ li a:hover{
     }
 
     .nav-link{
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         margin: 0 3rem;
     }
     .hero-image-text-bg{
