@@ -34,6 +34,25 @@ li:hover{
 
 
 
+.hero-image{
+    background-image:url("/assets/images/hero-img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
 a.navbar-brand.lion-logo{
     width:50%;
