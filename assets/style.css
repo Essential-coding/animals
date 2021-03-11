@@ -87,7 +87,9 @@ li a:hover{
 
 .carousel-inner{
     border: 1px solid;
-    box-shadow: 10px 15px 10px 10px #888888;
+    box-shadow: 0px 10px 10px 15px #888888;
+    border-radius:10%;
+
 }
 
 .carousel-images img{
@@ -163,6 +165,9 @@ li a:hover{
     .navbar-brand{
       width:15%;  
     }
+    .carousel-images img{
+    height:12em;
+}
     
     
 
@@ -190,7 +195,7 @@ li a:hover{
     }
 
     .carousel-images img{
-    height:20em;
+    height:15em;
 }
 
     
@@ -217,7 +222,7 @@ li a:hover{
 }
 
     .carousel-images img{
-    height:25em;
+    height:20em;
 }
 }
 
