@@ -92,7 +92,22 @@ li a:hover{
 
 .carousel-animals{
     background-color:purple;
+    
 }
+
+
+
+.carousel-images img{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+    .text-about-animals{
+        font-size:1.2rem;
+        letter-spacing:1px;
+    }
 
 
 @media only screen and (min-width: 320px) {
@@ -100,6 +115,13 @@ li a:hover{
         height:35vh;
         
     }
+
+    .carousel-images img{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:15em;
+}
 }
 
 
@@ -107,6 +129,13 @@ li a:hover{
     .hero-image{
         height:41vh;
     }
+
+    .carousel-images img{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:16em;
+}
 }
 
 
@@ -117,6 +146,12 @@ li a:hover{
     .hero-image-text{
         font-size:1.5rem;
     }
+    .carousel-images img{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:17em;
+}
 }
 
 
@@ -161,6 +196,10 @@ li a:hover{
       width:8%;  
     }
 
+    .carousel-images img{
+    height:20em;
+}
+
     
 }
 
@@ -182,6 +221,10 @@ li a:hover{
     width:50%;
     height:40vh;
 
+}
+
+    .carousel-images img{
+    height:25em;
 }
 }
 
