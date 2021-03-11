@@ -85,6 +85,11 @@ li a:hover{
     border:1px solid #fff;
 }
 
+.carousel-inner{
+    border: 1px solid;
+    box-shadow: 10px 15px 10px 10px #888888;
+}
+
 .carousel-images img{
     background-position: center;
     background-repeat: no-repeat;
