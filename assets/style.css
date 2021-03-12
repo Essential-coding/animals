@@ -102,6 +102,7 @@ li a:hover{
 }
 
 
+
     .text-about-animals{
         font-size:1.2rem;
         letter-spacing:1px;
@@ -109,8 +110,6 @@ li a:hover{
 
     .card img{
         height:35vh;
-        background-size: cover;
-        background-repeat: no-repeat;
     }
 
     .btn.btn-primary.card-buttons{
@@ -125,13 +124,6 @@ li a:hover{
         
     }
 
-    .carousel-images img{
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height:15em;
-}
-
 }
 
 
@@ -139,13 +131,6 @@ li a:hover{
     .hero-image{
         height:41vh;
     }
-
-    .carousel-images img{
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height:16em;
-}   
 }
 
 
@@ -156,12 +141,6 @@ li a:hover{
     .hero-image-text{
         font-size:1.5rem;
     }
-    .carousel-images img{
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height:17em;
-}
 }
 
 
@@ -180,10 +159,6 @@ li a:hover{
     .navbar-brand{
       width:15%;  
     }
-    .carousel-images img{
-    height:12em;
-}
-
 }
 
 @media only screen and (min-width: 800px) {
@@ -207,9 +182,6 @@ li a:hover{
       width:8%;  
     }
 
-    .carousel-images img{
-    height:15em;
-}
 
     
 }
@@ -234,9 +206,6 @@ li a:hover{
 
 }
 
-    .carousel-images img{
-    height:20em;
-}
 }
 
 
