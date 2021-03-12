@@ -114,7 +114,12 @@ li a:hover{
 
     .why-animals-matter-img{
         background-color:green;
-        height:60vh;
+        height:68vh;
+    }
+
+    .img-fluid.food-chain-images{
+        border-radius:100%;
+        height:30vh;
     }
 
 
