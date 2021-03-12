@@ -107,6 +107,12 @@ li a:hover{
         letter-spacing:1px;
     }
 
+    .card img{
+        height:17em;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
 
 @media only screen and (min-width: 320px) {
     .hero-image{
