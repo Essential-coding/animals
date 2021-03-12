@@ -123,6 +123,9 @@ li a:hover{
         height:35vh;
         
     }
+    .card img{
+        height:30vh;
+    }
 
 }
 
