@@ -112,11 +112,11 @@ li a:hover{
         height:35vh;
     }
 
-    .btn.btn-primary.card-buttons{
-        width:50%;
+
+    .card-buttons{
+        width:60%;
         float:right;
     }
-
 
 @media only screen and (min-width: 320px) {
     .hero-image{
