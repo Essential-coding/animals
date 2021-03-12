@@ -31,7 +31,10 @@ li a:hover{
 }
 
 
-
+.row-color{
+    background-color:yellow;
+    height:300px;
+}
 
 .navbar-collapse{
     flex-grow:0;
