@@ -127,6 +127,10 @@ li a:hover{
         height:30vh;
     }
 
+    .carousel-images img{
+    height:35vh;
+    }
+
 }
 
 
@@ -162,6 +166,10 @@ li a:hover{
     .navbar-brand{
       width:15%;  
     }
+
+    .carousel-images img{
+    height:30vh;
+    }
 }
 
 @media only screen and (min-width: 800px) {
@@ -182,9 +190,11 @@ li a:hover{
 
 }
     .navbar-brand{
-      width:8%;  
+    width:8%;  
     }
-
+    .carousel-images img{
+    height:35vh;
+    }
 
     
 }
@@ -206,8 +216,10 @@ li a:hover{
     .hero-image-text-bg{
     width:50%;
     height:45vh;
-
-}
+    }
+    .carousel-images img{
+        height:50vh;
+    }
 
 }
 
