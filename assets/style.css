@@ -112,6 +112,10 @@ li a:hover{
         float:right;
     }
 
+    .why-animals-matter-img{
+        background-color:green;
+        height:15em;
+    }
 
 
 @media only screen and (min-width: 320px) {
