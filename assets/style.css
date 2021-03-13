@@ -102,10 +102,6 @@ li a:hover{
         letter-spacing:1px;
     }
 
-    .card img{
-        height:35vh;
-    }
-
 
     .card-buttons{
         width:60%;
@@ -121,28 +117,28 @@ li a:hover{
         width:30%;
     }
 
-    .food-chain-cards img{
+    .food-chain-images img{
         border-radius:100%;
+        height:0vh!important;
     }
     
-.food-chain-eagle{
-    background-color:yellow;
-}  
+
 
 
 
 @media only screen and (min-width: 320px) {
     .hero-image{
-        height:35vh;
+    height:35vh;
         
     }
-    .card img{
-        height:30vh;
+    .different-animals img{
+    height:30vh;
     }
 
     .carousel-images img{
     height:35vh;
     }
+
 
 }
 
