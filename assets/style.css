@@ -193,6 +193,14 @@ li a:hover{
     .arrow-up.arrow-size{
         width:25%;
     }
+    .arrow-rotated-down-left.arrow-size{
+        width:90%;
+    }
+    .arrow-rotated-down-left{
+        transform:rotate(230deg);
+        position: relative;
+        bottom:7em;
+    }
     }
 
 
