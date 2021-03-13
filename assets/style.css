@@ -179,7 +179,22 @@ li a:hover{
     .carousel-images img{
     height:30vh;
     }
+
+    .arrow-right{
+        width:max-content;
+        transform:rotate(90deg);
+    }
+
+    .arrow-up{
+    transform: rotate(25deg);
+    position: relative;
+    right: 8em;
 }
+    .arrow-up.arrow-size{
+        width:25%;
+    }
+    }
+
 
 @media only screen and (min-width: 800px) {
     .hero-image{
