@@ -136,7 +136,7 @@ li a:hover{
     height:35vh;
     }
 
-    .arrow-size{
+    .arrow-size img{
         width:50%;
     }
 
@@ -190,14 +190,9 @@ li a:hover{
     position: relative;
     right: 8em;
 }
-    .arrow-up.arrow-size{
-        width:25%;
-    }
-    .arrow-rotated-down-left.arrow-size{
-        width:25%;
-    }
+
     .arrow-rotated-down-left{
-        transform:rotate(230deg);
+        transform:rotate(220deg);
     }
 
    
