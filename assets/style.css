@@ -194,12 +194,15 @@ li a:hover{
         width:25%;
     }
     .arrow-rotated-down-left.arrow-size{
-        width:90%;
+        width:25%;
     }
     .arrow-rotated-down-left{
         transform:rotate(230deg);
-        position: relative;
-        bottom:7em;
+    }
+
+    .middle-row{
+        background-color:yellow;
+
     }
     }
 
