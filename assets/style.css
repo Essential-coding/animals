@@ -102,7 +102,7 @@ li a:hover{
         letter-spacing:1px;
     }
 
-    .card-body{
+    p{
         text-align:center;
         font-size:1.5rem;
     }
@@ -142,6 +142,11 @@ li a:hover{
 
     .arrow-size img{
         width:50%;
+    }
+
+    p{
+        font-size:1rem;
+       
     }
 
 }
