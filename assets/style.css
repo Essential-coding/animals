@@ -118,7 +118,7 @@ li a:hover{
 
     .why-animals-matter-img{
         background-color:green;
-        height:50vh;
+        height:67vh;
     }
 
     .food-chain-cards{
@@ -147,9 +147,19 @@ li a:hover{
     height:30vh;
     }
 
-    .carousel-images img{
-    height:35vh;
+    .carousel-inner{
+        height:30vh;
     }
+
+    .carousel-images img{
+    height:30vh;
+    }
+
+    
+    .why-animals-matter-img{
+    background-color:green;
+    height:27vh;
+}
 
     .arrow-size img{
         width:50%;
@@ -166,6 +176,11 @@ li a:hover{
     .hero-image{
         height:41vh;
     }
+
+    .why-animals-matter-img {
+    background-color: green;
+    height: 32vh;
+}
 }
 
 
@@ -176,6 +191,10 @@ li a:hover{
     .hero-image-text{
         font-size:1.5rem;
     }
+    .why-animals-matter-img {
+    background-color: green;
+    height: 37vh;
+}
 }
 
 
@@ -195,9 +214,15 @@ li a:hover{
       width:15%;  
     }
 
+    .why-animals-matter-img {
+    background-color: green;
+    height: 34vh;
+}
+
     .carousel-images img{
     height:30vh;
     }
+    
 
     .arrow-right{
         width:max-content;
@@ -247,6 +272,11 @@ li a:hover{
     height:35vh;
     }
 
+    .why-animals-matter-img{
+    background-color:green;
+    height:48vh;
+    }
+
     
 }
 
@@ -269,11 +299,17 @@ li a:hover{
     height:45vh;
     }
 
+    .carousel-inner{
+        height:60vh;
+    }
 
     .carousel-images img{
         height:50vh;
     }
 
+    .why-animals-matter-img{
+    background-color:green;
+    height:67vh;
 }
 
 
