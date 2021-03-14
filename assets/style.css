@@ -238,6 +238,11 @@ li a:hover{
     .navbar-brand{
     width:8%;  
     }
+
+    p{
+        font-size:1.3rem;
+    } 
+    
     .carousel-images img{
     height:35vh;
     }
@@ -263,6 +268,8 @@ li a:hover{
     width:50%;
     height:45vh;
     }
+
+
     .carousel-images img{
         height:50vh;
     }
