@@ -217,6 +217,28 @@ li a:hover{
         width:50%;
     }
 
+    #first-name::placeholder{
+        width:18%;
+        border-radius:10%
+    }
+
+    #last-name::placeholder{
+        width:30%;
+        border-radius:10%
+    }
+
+    #email::placeholder{
+        width:38%;
+        border-radius:10%
+    }
+
+    #text-area::placeholder{
+       background-color:rgba(0, 0, 0, 1.0);
+       width:25%;
+       border-radius:10%
+    }
+
+
 
 
 
