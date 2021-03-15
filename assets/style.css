@@ -143,7 +143,31 @@ li a:hover{
 
     .input-color::placeholder{
         color:rgba(250, 120, 0, 1.0);
+        background-color:rgba(0, 0, 0, 1.0);
     }
+
+    #first-name::placeholder{
+        width:12%;
+        border-radius:10%
+    }
+
+    #last-name::placeholder{
+        width:20%;
+        border-radius:10%
+    }
+
+    #email::placeholder{
+        width:26%;
+        border-radius:10%
+    }
+
+    #text-area::placeholder{
+       background-color:rgba(0, 0, 0, 1.0);
+       width:20%;
+       border-radius:10%
+    }
+
+
 
     .textarea-color::placeholder{
         color:rgba(250, 120, 0, 1.0);
