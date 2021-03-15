@@ -251,6 +251,24 @@ li a:hover{
     background-color: green;
     height: 32vh;
 }
+
+        #first-name::placeholder{
+        width:15%;
+    }
+
+    #last-name::placeholder{
+        width:26%;
+    }
+
+    #email::placeholder{
+        width:35%;
+    }
+
+    #text-area::placeholder{
+       background-color:rgba(0, 0, 0, 1.0);
+       width:25%;
+    }
+
 }
 
 
