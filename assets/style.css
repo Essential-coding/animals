@@ -186,7 +186,10 @@ li a:hover{
         background-color:rgba(250, 150, 0);
     }
 
-    
+    .form-check-input:checked{
+        background-color:rgba(250, 150, 0);
+        border-color:rgba(250, 150, 0);
+    }
 
 
 @media only screen and (min-width: 320px) {
