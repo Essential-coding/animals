@@ -346,6 +346,26 @@ li a:hover{
         transform:rotate(220deg);
     }
 
+    
+    #first-name::placeholder{
+        width:15%;
+    }
+
+    #last-name::placeholder{
+        width:25%;
+    }
+
+    #email::placeholder{
+        width:35%;
+    }
+
+    #text-area::placeholder{
+       background-color:rgba(0, 0, 0, 1.0);
+       width:25%;
+    }
+
+    
+
    
     }
 
