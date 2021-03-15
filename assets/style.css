@@ -152,6 +152,7 @@ li a:hover{
     
     .radio-button-text-color{
         background-color: rgba(0, 0, 0, 0.7);
+        border-radius:15%;
         color:rgba(250, 120, 0);
         font-size: 1.3rem;
 
