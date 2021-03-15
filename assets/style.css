@@ -282,7 +282,26 @@ li a:hover{
     .why-animals-matter-img {
     background-color: green;
     height: 37vh;
-}
+    }
+
+    #first-name::placeholder{
+        width:14%;
+    }
+
+    #last-name::placeholder{
+        width:23%;
+    }
+
+    #email::placeholder{
+        width:30%;
+    }
+
+    #text-area::placeholder{
+       background-color:rgba(0, 0, 0, 1.0);
+       width:20%;
+    }
+    
+
 }
 
 
