@@ -457,6 +457,24 @@ li a:hover{
 }
 
 
+    #first-name::placeholder{
+        width:8%;
+    }
+
+    #last-name::placeholder{
+        width:13%;
+    }
+
+    #email::placeholder{
+        width:17%;
+    }
+
+    #text-area::placeholder{
+       background-color:rgba(0, 0, 0, 1.0);
+       width:12%;
+    }
+
+
 
 
 
