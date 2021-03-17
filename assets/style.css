@@ -4,6 +4,10 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+Address div p i{
+    font-family:"Italic"!important;
+}
+
 
 /*---------------------------------------------colors*/
 
