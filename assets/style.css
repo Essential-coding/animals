@@ -82,21 +82,12 @@ li a:hover{
     border:1px solid #fff;
 }
 
-.carousel-inner{
-    border: 1px solid;
-    box-shadow: 0px 10px 10px 15px #888888;
-    border-radius:10%;
+    .carousel-inner{
+            border: 1px solid;
+            box-shadow: 0px 10px 10px 15px #888888;
+            border-radius:10%;
 
-}
-
-    .carousel-images img{
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
-
-
-
+        }
 
 
     p{
@@ -116,10 +107,6 @@ li a:hover{
         float:right;
     }
 
-    .why-animals-matter-img{
-        background-color:green;
-        height:67vh;
-    }
 
     .food-chain-cards{
         width:30%;
@@ -192,6 +179,7 @@ li a:hover{
     }
 
 
+
 @media only screen and (min-width: 320px) {
     .hero-image{
     height:35vh;
@@ -204,23 +192,17 @@ li a:hover{
      letter-spacing: 1px;
      line-height:1.3;
     }
-    .different-animals-images{
+
+
+    .carousel-images img{ /*Slide-carousel*/
     height:30vh;
     }
 
-    .carousel-inner{
-        height:30vh;
-    }
-
-    .carousel-images img{
-    height:30vh;
+    .carousel-fade-images img{
+        height:40vh;
     }
 
     
-    .why-animals-matter-img{
-    background-color:green;
-    height:27vh;
-}
 
     .arrow-size img{
         width:50%;
@@ -256,11 +238,6 @@ li a:hover{
         height:41vh;
     }
 
-    .why-animals-matter-img {
-    background-color: green;
-    height: 32vh;
-}
-
         #first-name::placeholder{
         width:15%;
     }
@@ -287,10 +264,6 @@ li a:hover{
     }
     .hero-image-text{
         font-size:1.5rem;
-    }
-    .why-animals-matter-img {
-    background-color: green;
-    height: 37vh;
     }
 
     #first-name::placeholder{
@@ -329,16 +302,6 @@ li a:hover{
     .navbar-brand{
       width:15%;  
     }
-
-    .why-animals-matter-img {
-    background-color: green;
-    height: 34vh;
-}
-
-    .carousel-images img{
-    height:30vh;
-    }
-    
 
     .arrow-right{
         width:max-content;
@@ -408,10 +371,6 @@ li a:hover{
     height:35vh;
     }
 
-    .why-animals-matter-img{
-    background-color:green;
-    height:48vh;
-    }
 
     #first-name::placeholder{
         width:12%;
@@ -452,18 +411,14 @@ li a:hover{
     height:45vh;
     }
 
-    .carousel-inner{
-        height:60vh;
-    }
-
     .carousel-images img{
         height:60vh;
     }
 
-    .why-animals-matter-img{
-    background-color:green;
-    height:67vh;
-}
+     .carousel-fade-images img{
+         height:65vh;
+     }
+
 
 
     #first-name::placeholder{
@@ -483,6 +438,12 @@ li a:hover{
        width:12%;
     }
 
+    .contact-bg-image{
+        height:130vh;
+    }
+
+
+}
 
 
 
@@ -490,10 +451,3 @@ li a:hover{
 
 
 
-
-
-/*
-a.navbar-brand.lion-logo{
-    width:50%;
-
-}*/
