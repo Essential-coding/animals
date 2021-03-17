@@ -202,8 +202,16 @@ li a:hover{
     }
 
 
+
+
     .carousel-images img{ /*Slide-carousel*/
     height:30vh;
+    }
+
+
+
+    .different-animal-images{
+        height:30vh;
     }
 
     .carousel-fade-images img{
@@ -311,6 +319,10 @@ li a:hover{
       width:15%;  
     }
 
+    .different-animals-images {
+        height:40vh;
+    }
+
     .arrow-right{
         width:max-content;
         transform:rotate(90deg);
@@ -369,6 +381,10 @@ li a:hover{
 }
     .navbar-brand{
     width:8%;  
+    }
+
+    .different-animals-images{
+        height:35vh;
     }
 
     p{
