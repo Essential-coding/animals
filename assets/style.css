@@ -382,65 +382,7 @@ li a:hover{
     }
 
 
-    
 
-@media only screen and (min-width: 600px) {
-    .hero-image{
-        height:80vh;
-    }
-    .hero-image-text{
-        font-size:2rem;
-    }
-
-    .nav-link{
-        margin: 0 2rem;
-    }
-
-    .navbar-brand{
-      width:10%;  
-    }
-
-    .different-animals-images {
-        height:40vh;
-    }
-
-    .arrow-right{
-        width:max-content;
-        transform:rotate(90deg);
-    }
-
-    .arrow-up{
-    transform: rotate(30deg);
-    position: relative;
-    right: 7em;
-}
-
-    .arrow-rotated-down-left{
-        transform:rotate(220deg);
-    }
-
-    
-    #first-name::placeholder{
-        width:15%;
-    }
-
-    #last-name::placeholder{
-        width:25%;
-    }
-
-    #email::placeholder{
-        width:35%;
-    }
-
-    #text-area::placeholder{
-       background-color:rgba(0, 0, 0, 1.0);
-       width:25%;
-    }
-
-    
-
-   
-    }
 
 
 
