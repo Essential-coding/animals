@@ -253,9 +253,10 @@ li a:hover{
        width:30%;
     }
 
-
-
-
+    .bg-color-contact-headline{
+        background-color:rgba(250, 120, 0, 0.3);
+        border-radius:100%;
+    }
 
 
 }
