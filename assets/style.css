@@ -4,15 +4,6 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-Address div p i{
-    font-family:"Italic"!important;
-}
-
-.social-icons{
-    font-size:3rem;
-}
-
-
 
 /*---------------------------------------------colors*/
 
@@ -95,6 +86,8 @@ li a:hover{
 
 /*--------------------------------------------------Color ends*/
 
+
+/*--------------------------------------------------Nav*/
 .navbar-collapse{
     flex-grow:0;
 }
@@ -147,6 +140,11 @@ li a:hover{
         width:50%;
     }
 
+/*--------------------------------------------------Nav*/
+
+
+
+/*--------------------------------------------------Article id="About-the-animals*/
         .carousel-inner{
         border: 1px solid;
         border-radius:10%;
@@ -179,6 +177,8 @@ li a:hover{
         border-radius:100%;
     }
 
+    /*------------------------------------------------------------------Form*/
+
     .contact-bg-image{
         background-image: url("/assets/images/cat-contact-form.jpg");
         background-size: cover;
@@ -187,27 +187,23 @@ li a:hover{
         border-radius:10%;
     }
 
-    .opacity{
+    .opacity-contact-form{
         opacity:0.7;
     }
 
     #first-name::placeholder{
-        width:12%;
         border-radius:10%
     }
 
     #last-name::placeholder{
-        width:20%;
         border-radius:10%
     }
 
     #email::placeholder{
-        width:26%;
         border-radius:10%
     }
 
     #text-area::placeholder{
-       width:20%;
        border-radius:10%
     }
 
@@ -224,6 +220,19 @@ li a:hover{
         background-size: cover;
         height:70vh;
     }
+
+
+    Address div p i{
+    font-family:"Italic"!important; 
+    }
+
+    .social-icons{
+        font-size:3rem;
+    }
+
+
+    
+    /*------------------------------------------------------------------Form ends*/
 
 
 @media only screen and (min-width: 320px) {
@@ -420,7 +429,6 @@ li a:hover{
     }
 
     .arrow-right{
-        width:max-content;
         transform:rotate(90deg);
     }
 
