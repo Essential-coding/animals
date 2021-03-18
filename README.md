@@ -67,7 +67,17 @@ I created wireframes for:
 
 - Desktop wireframe
 
+### Design Choices
 
+
+I choosed several colors based on my own creativity and it came with the process as i was working on the project because i would like them
+to fit with the images as well.
+
+#### My colors
+
+
+
+![Different types of colors](/assets/images/color-readme.png)
 
 
 
