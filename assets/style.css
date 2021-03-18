@@ -5,8 +5,44 @@ body{
 }
 
 
-/*---------------------------------------------colors*/
+/*---------------------------------------------------------------------------colors*/
 
+/*------------------------------images with background-colors*/
+.hero-image{
+    background-color:#777;
+}
+
+
+.lion-logo img{
+    background-color:#000;
+}
+
+
+.carousel-images img{ /*Slide-carousel*/
+    background-color:#777;
+}
+
+
+.different-animal-images{
+    background-color:#777;
+}
+
+.carousel-fade-images img{/*Fade-carousel*/
+    background-color:#777;
+}
+
+
+.food-chain-images{
+    background-color:#777;
+}
+
+.arrow-size img{
+    background-color: #777;
+}
+
+.contact-bg-image{
+    background-color:#777;
+}
 
 
 .hero-image-text-bg{
@@ -14,6 +50,7 @@ body{
     color:#fff;
     border:1px solid #fff;
 }
+/*------------------------------images with background-colors ends*/
 
 .navbar-light .navbar-nav .nav-link {
     color: #fff;
@@ -84,10 +121,10 @@ li a:hover{
     background-color:rgba(250, 120, 0, 0.3);
 }
 
-/*--------------------------------------------------Color ends*/
+/*---------------------------------------------------------------------------colors*/
 
 
-/*--------------------------------------------------Nav*/
+/*----------------------------------------------------------------------------Nav*/
 .navbar-collapse{
     flex-grow:0;
 }
@@ -123,7 +160,6 @@ li a:hover{
 
 
 
-
 .hero-image{
     background-image:url("/assets/images/hero-img.jpg");
     background-size: cover;
@@ -140,11 +176,11 @@ li a:hover{
         width:50%;
     }
 
-/*--------------------------------------------------Nav*/
+/*----------------------------------------------------------------------------Nav ends*/
 
 
 
-/*--------------------------------------------------Article id="About-the-animals*/
+
         .carousel-inner{
         border: 1px solid;
         border-radius:10%;
