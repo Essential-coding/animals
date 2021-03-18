@@ -75,11 +75,11 @@ to fit with the images as well.
 
 #### My colors
 
-#### - Heatwave  #FB7800                            
-#### - Black    #000
-#### - White    #FFF
-#### - Sonic silver #777
-#### - Battleship grey #888
+#### Heatwave  #FB7800                            
+#### Black    #000
+#### White    #FFF
+#### Sonic silver #777
+#### Battleship grey #888
 
 ![Different types of colors](/assets/images/color-readme.png)
 
