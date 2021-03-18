@@ -350,8 +350,6 @@ li a:hover{
 
     .arrow-up{
     transform: rotate(0deg);
-    position: relative;
-    right: 0em;
 }
 
     .arrow-rotated-down-left{
@@ -383,7 +381,64 @@ li a:hover{
 
 
 
+    
+@media only screen and (min-width: 768px) {
+    .hero-image{
+        height:80vh;
+    }
+    .hero-image-text{
+        font-size:2rem;
+    }
 
+    .nav-link{
+        margin: 0 2rem;
+    }
+
+    .navbar-brand{
+      width:10%;  
+    }
+
+    .different-animals-images {
+        height:40vh;
+    }
+
+    .arrow-right{
+        width:max-content;
+        transform:rotate(90deg);
+    }
+
+    .arrow-up{
+    transform: rotate(25deg);
+    position: relative;
+    right: 6em;
+}
+
+    .arrow-rotated-down-left{
+        transform:rotate(220deg);
+    }
+
+    
+    #first-name::placeholder{
+        width:15%;
+    }
+
+    #last-name::placeholder{
+        width:25%;
+    }
+
+    #email::placeholder{
+        width:35%;
+    }
+
+    #text-area::placeholder{
+       background-color:rgba(0, 0, 0, 1.0);
+       width:25%;
+    }
+
+    
+
+   
+    }
 
 
 
@@ -425,20 +480,20 @@ li a:hover{
 
 
     #first-name::placeholder{
-        width:12%;
+        width:20%;
     }
 
     #last-name::placeholder{
-        width:18%;
+        width:30%;
     }
 
     #email::placeholder{
-        width:25%;
+        width:40%;
     }
 
     #text-area::placeholder{
        background-color:rgba(0, 0, 0, 1.0);
-       width:18%;
+       width:30%;
     }
 
     
@@ -460,7 +515,7 @@ li a:hover{
 
     .nav-link{
         font-size: 1.2rem;
-        margin: 0 3rem;
+        margin: 0 1rem;
     }
     .hero-image-text-bg{
     width:50%;
@@ -478,20 +533,20 @@ li a:hover{
 
 
     #first-name::placeholder{
-        width:8%;
+        width:15%;
     }
 
     #last-name::placeholder{
-        width:13%;
+        width:20%;
     }
 
     #email::placeholder{
-        width:17%;
+        width:30%;
     }
 
     #text-area::placeholder{
        background-color:rgba(0, 0, 0, 1.0);
-       width:12%;
+       width:20%;
     }
 
     .contact-bg-image{
