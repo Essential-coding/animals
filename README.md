@@ -75,15 +75,24 @@ to fit with the images as well.
 
 #### My colors
 
-#### - Heatwave  #FB7800
+#### - Heatwave  #FB7800                            
 #### - Black    #000
 #### - White    #FFF
 #### - Sonic silver #777
 #### - Battleship grey #888
 
-
-
 ![Different types of colors](/assets/images/color-readme.png)
+
+|   Heatwave  	|   Black  	|   White  	|  Sonic silver   	|   Battleship Grey  	|  	
+|-	|-	|-	|-	|-	|	
+| background color navbar 	| hero image background color 	|  navigation links on top of the page	| background color for almost all images 	|   box shadow for carousel  	|  	
+| input color for placeholder 	                        | logo image background color	|  text of the navigation |  |  |  	
+| text area ***color***	for placeholder                        | paragraph text 	|  hero image headline                              |  	|  	|  	
+| ***color*** for radio button text 	                        | hovering on anchor links on top of the page                        |  hero image paragraph text                |  	|  	|  	
+| ***background color*** for submit button 	| text area ***background*** color for placeholder 	|   	|  	|   	|  	
+| background color for headline in contact section  | ***background color*** for ***radio button text***  |   |  |  |
+| when radio buttons are checked  | anchor links in footer  |   |   |   |
+
 
 
 
