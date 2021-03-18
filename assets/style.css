@@ -16,6 +16,9 @@ h1,h2,h3,h4,h5{
     background-color:#777;
 }
 
+p{
+    color:#000;
+}
 
 .lion-logo img{
     background-color:#000;
@@ -55,6 +58,10 @@ h1,h2,h3,h4,h5{
     border:1px solid #fff;
 }
 /*------------------------------images with background-colors ends*/
+
+.hero-image-text{
+    color:#fff;
+}
 
 .navbar-light .navbar-nav .nav-link {
     color: #fff;
