@@ -68,7 +68,7 @@ li a:hover{
 }
 
 .navbar-brand{
-    width:25%;
+    width:18%;
 }
 
 .nav-link{
@@ -201,6 +201,11 @@ li a:hover{
         
     }
 
+        
+    .navbar-brand{
+        width:18%;
+    }
+
    p {
     text-align:center;
     font-size:1rem;
@@ -323,7 +328,7 @@ li a:hover{
     }
 
     .navbar-brand{
-      width:15%;  
+      width:10%;  
     }
 
     .different-animals-images {
@@ -431,6 +436,10 @@ li a:hover{
     }
     .hero-image-text{
         font-size:4rem;
+    }
+
+    .navbar-brand{
+        width:6%;
     }
 
     .nav-link{
