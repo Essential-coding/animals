@@ -149,7 +149,26 @@ I chose several colors based on my own creativity and it came with the process a
 
 ---
 
+## Technologies used
 
+### Language
 
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 
+- [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+
+- [Jquery](https://developer.mozilla.org/en-US/docs/Glossary/jQuery)
+
+- [Popper](https://popper.js.org/)
+
+### Tools & Libraries
+
+- [Bootstrap](https://getbootstrap.com/) 
+
+- [Fontawesome](https://fontawesome.com/v4.7.0/)
+
+- [Google Fonts](https://fonts.google.com/?preview.size=36) 
+
+- [Git](https://git-scm.com/)
