@@ -19,10 +19,12 @@ the world of animals.
 
 ### User Goals
 
-- As a user i want to find information in **general** about several types of animals.
-- As a user i want to find information about several types of animals in **depth for extra information**.
-- As a user i want i want to experience several **images** of the nature and animals.
-- As a user i want to find a **contact form** that is provided with **radio buttons** for different alternatives.
+
+- As a user I want to find information in **general** about several types of animals.
+- As a user I want to find information about several types of animals in **depth for extra information**.
+- As a user I want I want to experience several **images** of the nature and animals.
+- As a user I want to find a **contact form** that is provided with **radio buttons** for different alternatives.
+
 
 ### User stories
 
