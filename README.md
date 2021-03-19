@@ -67,6 +67,36 @@ I created wireframes for:
 
 - Desktop wireframe
 
+ #### Wireframes expectations
+
+ Most of the things was as i expected according to the wireframes. However there were some minor things that i readjusted.
+
+ #### Sections in the page
+
+#### Different animals
+
+Another thing is that in my wireframe if we go to the "different animals" section it says that i should have a title on the left bottom but then i saw that it did not look so well, so i decided
+to just have a title/headline in the middle of the cards for a better outlook.
+
+#### Does the animal matter
+
+On the desktop it almost went as expected to the wireframes but eventually when i came across the section 'why animals matter' i finally realized
+that i would like to readjust that headline into ''Does the animal matter" for a better understandning.
+
+In the section of "Does animal matter" i also realized that it is better to use a carousel fade for images than just an image. The reason is because i want to attract the
+audience not just by looking at paragraphs but also to experience its nature.
+
+#### Food chain
+
+I also changed the arrows in the food chain section because i am describing a food chain and it would look more nicely if it started with something from the top. 
+Therefore i added an extra image both for the outlook and that it would describe the food chain in a more simplified way.
+I also added headlines for the images.
+
+#### Contact
+
+In the contact section it got me a nice idea and that was to put a background image of a cat for a greater look.
+I also changed the descripition of the radio buttons.
+
 ### Design Choices
 
 
