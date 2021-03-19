@@ -120,7 +120,7 @@ I chose several colors based on my own creativity and it came with the process a
 | background color for headline in contact section  | ***background color*** for ***radio button text***  |   |  |  |
 | when radio buttons are checked  | anchor links in footer  |   |   |   |
 
-
+![Mockups](/assets/images/animal-mockups.PNG)
 
 
 
