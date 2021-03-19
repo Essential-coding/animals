@@ -126,26 +126,29 @@ I chose several colors based on my own creativity and it came with the process a
 
 ## Features
 
- - Navigate to simply access different areas of the page on all screen sizes.
+- Navigate to simply access different areas of the page on all screen sizes.
  
- - Read more buttons.
+- Read more buttons.
 
- - Radio buttons in the contact form.
+- Radio buttons in the contact form.
 
- - Social media links.
+- Social media links.
 
- - Click the logo icon to go back home in the page.
+- Click the logo icon to go back home in the page.
 
 
 ### Future features
     
-    - Video will be applied
+- Video will be applied
     
-    - Access audio sounds 
+- Access audio sounds 
 
-    - Forum
+- Forum
 
-    - Fix the email warning not to fade away when modal opens in the forum.
+- Fix the email warning not to fade away when modal opens in the forum.
+
+---
+
 
 
 
