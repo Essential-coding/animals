@@ -37,7 +37,7 @@ the world of animals.
 
 - To easily **access** the site without any issues and to make it look simple.
 
-- To **understand** the information in such a way that it wont be boring.
+- To **understand** the information in such a way that it won't be boring.
 
 - To provide **more images** rather than text to attract the users so that they can digest for more information.
 
