@@ -44,7 +44,7 @@ the world of animals.
 
 ### Requirements 
 
-- Navigate through the website using the **navbar** to access different sections of the page as well as other pages.
+- Navigate through the website using the **navbar** to access different sections of the page.
 
 - Access the **read more buttons** for information in depth.
 
