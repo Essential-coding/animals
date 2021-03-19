@@ -60,8 +60,8 @@ the world of animals.
 ### Wireframes
 
 
-For the wireframes i used [marvelapp](https://marvelapp.com/). It was easy to structure and sort small things like navbar and images.
-It was also easy to edit somethings like the size of a text and to place it in the same angle as the image.
+For the wireframes I used [marvelapp](https://marvelapp.com/). It was easy to structure and sort small things like navbar and images.
+It was also easy to edit some things like the size of a text and to place it in the same angle as the image.
 
 I created wireframes for:
 
