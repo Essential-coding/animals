@@ -165,7 +165,7 @@ li a:hover{
 
 
 .hero-image{
-    background-image:url("/assets/images/hero-img.jpg");
+    background-image:url("assets/images/hero-img.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -220,7 +220,7 @@ li a:hover{
     /*------------------------------------------------------------------Form*/
 
     .contact-bg-image{
-        background-image: url("/assets/images/cat-contact-form.jpg");
+        background-image: url("assets/images/cat-contact-form.jpg");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -239,7 +239,7 @@ li a:hover{
     }
 
     .modal-backdrop{
-        background-image: url("/assets/images/dog.jpg");
+        background-image: url("assets/images/dog.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
