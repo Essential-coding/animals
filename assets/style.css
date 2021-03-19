@@ -323,6 +323,9 @@ li a:hover{
     .hero-image-text{
         font-size:1.5rem;
     }
+    .carousel-images img{ /*Slide-carousel*/
+        height:55vh;
+    }
     
 
 }
@@ -347,6 +350,11 @@ li a:hover{
     .different-animals-images {
         height:40vh;
     }
+
+    .carousel-fade-images img{/*Fade-carousel*/
+        height:55vh;
+    }
+
 
     .arrow-right{
         width:max-content;
@@ -382,9 +390,18 @@ li a:hover{
       width:10%;  
     }
 
+    .carousel-images img{ /*Slide-carousel*/
+    height:40vh;
+    }
+
     .different-animals-images {
         height:40vh;
     }
+
+    .carousel-fade-images img{/*Fade-carousel*/
+        height:40vh;
+    }
+
 
     .arrow-right{
         transform:rotate(90deg);
