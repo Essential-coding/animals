@@ -98,14 +98,11 @@ li a:hover{
 
 .input-color::placeholder{
     color:rgba(250, 120, 0, 1.0);
-    background-color:rgba(0, 0, 0, 1.0);
+    
 }
 
 
 
-#text-area::placeholder{
-    background-color:rgba(0, 0, 0, 1.0);
-}
 
 .textarea-color::placeholder{
     color:rgba(250, 120, 0, 1.0);
@@ -238,22 +235,7 @@ li a:hover{
         opacity:0.7;
     }
 
-    #first-name::placeholder{
-        border-radius:10%
-    }
-
-    #last-name::placeholder{
-        border-radius:10%
-    }
-
-    #email::placeholder{
-        border-radius:10%
-    }
-
-    #text-area::placeholder{
-       border-radius:10%
-    }
-
+    
     .radio-button-text-color{
         border-radius:15%;
         font-size: 1.3rem;
@@ -323,21 +305,6 @@ li a:hover{
         width:50%;
     }
 
-    #first-name::placeholder{
-        width:18%;
-    }
-
-    #last-name::placeholder{
-        width:30%;
-    }
-
-    #email::placeholder{
-        width:40%;
-    }
-
-    #text-area::placeholder{
-       width:30%;
-    }
 
     .bg-color-contact-headline{
         border-radius:100%;
@@ -350,22 +317,6 @@ li a:hover{
         height:41vh;
     }
 
-        #first-name::placeholder{
-        width:15%;
-    }
-
-    #last-name::placeholder{
-        width:26%;
-    }
-
-    #email::placeholder{
-        width:35%;
-    }
-
-    #text-area::placeholder{
-       width:25%;
-    }
-
 }
 
 
@@ -375,22 +326,6 @@ li a:hover{
     }
     .hero-image-text{
         font-size:1.5rem;
-    }
-
-    #first-name::placeholder{
-        width:14%;
-    }
-
-    #last-name::placeholder{
-        width:23%;
-    }
-
-    #email::placeholder{
-        width:30%;
-    }
-
-    #text-area::placeholder{
-       width:20%;
     }
     
 
@@ -429,26 +364,6 @@ li a:hover{
     .arrow-rotated-down-left{
         transform:rotate(0deg);
     }
-
-    
-    #first-name::placeholder{
-        width:15%;
-    }
-
-    #last-name::placeholder{
-        width:25%;
-    }
-
-    #email::placeholder{
-        width:35%;
-    }
-
-    #text-area::placeholder{
-       width:25%;
-    }
-
-    
-
    
     }
 
@@ -488,25 +403,6 @@ li a:hover{
     .arrow-rotated-down-left{
         transform:rotate(220deg);
     }
-
-    
-    #first-name::placeholder{
-        width:15%;
-    }
-
-    #last-name::placeholder{
-        width:25%;
-    }
-
-    #email::placeholder{
-        width:35%;
-    }
-
-    #text-area::placeholder{
-       width:25%;
-    }
-
-    
 
    
     }
@@ -548,24 +444,6 @@ li a:hover{
     .carousel-images img{
     height:35vh;
     }
-
-
-    #first-name::placeholder{
-        width:20%;
-    }
-
-    #last-name::placeholder{
-        width:30%;
-    }
-
-    #email::placeholder{
-        width:40%;
-    }
-
-    #text-area::placeholder{
-       width:30%;
-    }
-
     
 }
 
@@ -599,24 +477,6 @@ li a:hover{
      .carousel-fade-images img{
          height:65vh;
      }
-
-
-
-    #first-name::placeholder{
-        width:15%;
-    }
-
-    #last-name::placeholder{
-        width:20%;
-    }
-
-    #email::placeholder{
-        width:30%;
-    }
-
-    #text-area::placeholder{
-       width:20%;
-    }
 
     .contact-bg-image{
         height:130vh;
