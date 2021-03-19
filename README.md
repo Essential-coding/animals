@@ -79,7 +79,7 @@ Most of the things were as I expected, according to the wireframes. However, the
 
 #### Different animals
 
-Another thing is that in my wireframe if we go to the "different animals" section it says that i should have a title on the left bottom, but then I saw that it did not look so well, so i decided
+Another thing is that in my wireframe if we go to the "different animals" section it says that I should have a title on the left bottom, but then I saw that it did not look so well, so I decided
 to just have a title/headline in the middle of the cards for a better outlook.
 
 #### Does the animal matter
