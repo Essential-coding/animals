@@ -116,9 +116,9 @@ I chose several colors based on my own creativity and it came with the process a
 | input color for placeholder 	                        | logo image background color	|  text of the navigation |  |  |  	
 | text area ***color***	for placeholder                        | paragraph text 	|  hero image headline                              |  	|  	|  	
 | ***color*** for radio button text 	                        | hovering on anchor links on top of the page                        |  hero image paragraph text                |  	|  	|  	
-| ***background color*** for submit button 	| text area ***background*** color for placeholder 	|   	|  	|   	|  	
-| background color for headline in contact section  | ***background color*** for ***radio button text***  |   |  |  |
-| when radio buttons are checked  | anchor links in footer  |   |   |   |
+| ***background color*** for submit button 	|  ***background color*** for ***radio button text***	|   	|  	|   	|  	
+| background color for headline in contact section  | anchor links in footer    |   |  |  |
+| when radio buttons are checked  |  |   |   |   |
 
 ![Mockups](/assets/images/animal-mockups.PNG)
 
