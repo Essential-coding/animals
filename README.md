@@ -48,6 +48,8 @@ the world of animals.
 
 - Navigate through the website using the **navbar** to access different sections of the page.
 
+- Click on the logo to get back to reach the top of the page.
+
 - Access the **read more buttons** for information in depth.
 
 - Access the contact form by adding your **e-mail address**.
