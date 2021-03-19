@@ -122,9 +122,30 @@ I chose several colors based on my own creativity and it came with the process a
 
 ![Mockups](/assets/images/animal-mockups.PNG)
 
+---
+
+## Features
+
+ - Navigate to simply access different areas of the page on all screen sizes.
+ 
+ - Read more buttons.
+
+ - Radio buttons in the contact form.
+
+ - Social media links.
+
+ - Click the logo icon to go back home in the page.
 
 
+### Future features
+    
+    - Video will be applied
+    
+    - Access audio sounds 
 
+    - Forum
+
+    - Fix the email warning not to fade away when modal opens in the forum.
 
 
 
