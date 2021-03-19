@@ -138,7 +138,7 @@ I chose several colors based on my own creativity and it came with the process a
 
 - Social media links.
 
-- Click the logo icon to go back home in the page.
+- Click the logo icon to go back home t0 the page.
 
 
 ### Future features
