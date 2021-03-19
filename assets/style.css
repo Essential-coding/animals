@@ -432,10 +432,7 @@ li a:hover{
     .hero-image-text{
         font-size:3rem;
     }
-    .nav-link{
-        font-size:1.2rem;
-        margin: 0 1rem;
-    }
+    
 
     .hero-image-text-bg{
     width:70%;
@@ -449,7 +446,7 @@ li a:hover{
     .different-animals-images{
         height:35vh;
     }
-
+    
     p{
         font-size:1.3rem;
     } 
@@ -474,10 +471,7 @@ li a:hover{
         width:6%;
     }
 
-    .nav-link{
-        font-size: 1.2rem;
-        margin: 0 1rem;
-    }
+    
     .hero-image-text-bg{
     width:50%;
     height:45vh;
