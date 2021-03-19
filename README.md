@@ -98,8 +98,7 @@ I also changed the description of the radio button.
 ### Design Choices
 
 
-I choosed several colors based on my own creativity and it came with the process as i was working on the project because i would like them
-to fit with the images as well.
+I chose several colors based on my own creativity and it came with the process as I was working on the project because I would like them to fit with the images as well.
 
 #### My colors
 
