@@ -52,7 +52,7 @@ the world of animals.
 
 - Access the contact form by adding your **e-mail address**.
 
-- Access different types of **information** on different types of **images**.
+- Access different types of **information** of different types of **images**.
 
 
 ### Wireframes
