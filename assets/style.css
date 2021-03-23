@@ -256,8 +256,15 @@ li a:hover{
     }
 
 
-    
     /*------------------------------------------------------------------Form ends*/
+
+    .arrow-mobile{
+        width:100%;
+    }
+
+    .arrow-tablet-desktop{
+        width:100%;
+    }
 
 
 @media (min-width: 320px) and (max-width: 480px) {
@@ -294,10 +301,6 @@ li a:hover{
     .carousel-fade-images img{/*Fade-carousel*/
         height:40vh;
     }    
-
-   .arrow-size-mobile{
-       width:25%;
-   }
 
 
     .bg-color-contact-headline{
