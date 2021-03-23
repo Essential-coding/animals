@@ -260,7 +260,7 @@ li a:hover{
     /*------------------------------------------------------------------Form ends*/
 
 
-@media only screen and (min-width: 320px) {
+@media (min-width: 320px) and (max-width: 480px) {
     .hero-image{
     height:35vh;
         
@@ -293,18 +293,11 @@ li a:hover{
 
     .carousel-fade-images img{/*Fade-carousel*/
         height:40vh;
-    }
+    }    
 
-   .eagle-food-chain-img{
-       width:100%;
-       border-radius:50%;
+   .arrow-size-mobile{
+       width:25%;
    }
-
-    
-
-    .arrow-size img{
-        width:50%;
-    }
 
 
     .bg-color-contact-headline{
