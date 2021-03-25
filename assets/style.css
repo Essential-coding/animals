@@ -296,12 +296,20 @@ li a:hover{
     .carousel-slide-mobile-images img {
         height:35vh;
     }
+
+    .carousel-fade-images-mobile img {
+        height:35vh;
+    }
 }
 
 @media only screen and (min-width: 375px){
     .carousel-slide-mobile-images img{
     height:40vh;
         
+    }
+
+    .carousel-fade-images-mobile img {
+        height:40vh;
     }
 } 
 
@@ -312,6 +320,10 @@ li a:hover{
     }
 
     .carousel-slide-mobile-images img{
+        height:45vh;
+    }
+
+    .carousel-fade-images-mobile img {
         height:45vh;
     }
 
@@ -327,10 +339,14 @@ li a:hover{
         height:50vh;
     }
 
+    .carousel-fade-images-mobile img {
+        height:50vh;
+    }
+
 } 
 
 
-@media only screen and (min-width: 625px){
+@media only screen and (min-width: 625px) and (max-width:767px){
     .hero-image-mobile{
     height:70vh;
         
@@ -338,6 +354,10 @@ li a:hover{
 
     .carousel-slide-mobile-images img{
         height:55vh;
+    }
+
+    .carousel-fade-images-mobile img {
+        height:60vh;
     }
 
 } 
