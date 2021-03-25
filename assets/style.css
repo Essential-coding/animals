@@ -165,9 +165,8 @@ li a:hover{
     letter-spacing:2px;
 }
 
-
-
-.hero-image{
+@media screen and (max-width: 979px){
+    .hero-image-mobile{
     background-image:url("images/hero-img-shark.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -176,7 +175,10 @@ li a:hover{
     align-items: center;
     text-align:center;
     letter-spacing:2px;
-}
+    }
+ } 
+
+
 
     .hero-image-text-bg{
         opacity:0.9;
@@ -280,14 +282,13 @@ li a:hover{
     }
 
 @media only screen and (min-width: 320px){
-    .hero-image{
+    .hero-image-mobile{
     height:40vh;
-        
     }
 }
 
 @media only screen and (min-width: 375px){
-    .hero-image{
+    .hero-image-mobile{
     height:45vh;
         
     }
@@ -295,7 +296,7 @@ li a:hover{
 
 
 @media only screen and (min-width: 425px){
-    .hero-image{
+    .hero-image-mobile{
     height:50vh;
         
     }
@@ -304,7 +305,7 @@ li a:hover{
 
 
 @media only screen and (min-width: 525px){
-    .hero-image{
+    .hero-image-mobile{
     height:60vh;
         
     }
@@ -313,7 +314,7 @@ li a:hover{
 
 
 @media only screen and (min-width: 625px){
-    .hero-image{
+    .hero-image-mobile{
     height:70vh;
         
     }
