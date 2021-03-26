@@ -5,6 +5,13 @@
 * Browsers: last 10 version
 */
 
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 10 version
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
 
@@ -96,7 +103,8 @@ footer a:hover{
 
 .btn-check:focus+.btn, .btn:focus {
     outline: 0;
-    box-shadow: 0 0 0 0.25rem rgb(250 120 0 / 50%);
+    -webkit-box-shadow: 0 0 0 0.25rem rgb(250 120 0 / 50%);
+            box-shadow: 0 0 0 0.25rem rgb(250 120 0 / 50%);
 }
 
 
@@ -527,6 +535,5 @@ li a:hover{
 
 
 }
-
 
 
