@@ -296,7 +296,7 @@ li a:hover{
     .card{
         margin: 10px 0;
         border:4px solid rgb(250, 120, 0);
-        border:#fa7800; /*Fallback color*/
+        border:4px solid #fa7800; /*fallback browser*/
     }
 
     .card-body{
