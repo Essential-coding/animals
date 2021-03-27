@@ -35,7 +35,7 @@ h1,h2,h3,h4,h5{
 /*---------------------------------------------------------------------------colors*/
 
 /*------------------------------images with background-colors*/
-.hero-image-mobile{
+.hero-image{
     background-color:#777;
 }
 
@@ -215,6 +215,8 @@ li a:hover{
 
 .bg-color-contact-headline{
     background-color:rgba(250, 120, 0, 0.3);
+    border-radius:100%;
+    
 }
 
 /*---------------------------------------------------------------------------colors end*/
@@ -258,8 +260,8 @@ li a:hover{
     letter-spacing:2px;
 }
 
-@media screen and (max-width: 979px){
-    .hero-image-mobile{
+
+    .hero-image{
     background-image:url("images/elephant-hero-img.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -271,10 +273,8 @@ li a:hover{
         -ms-flex-align: center;
             align-items: center;
     text-align:center;
-    letter-spacing:2px;
-    }
- } 
-
+    letter-spacing:2px;}
+    
     hr{
         border:1px dashed;
     }
@@ -389,7 +389,7 @@ li a:hover{
 
 
 @media only screen and (min-width: 320px){
-    .hero-image-mobile{
+    .hero-image{
     height:40vh;
     }
 
@@ -451,17 +451,12 @@ li a:hover{
     .carousel-fade-images img{/*Fade-carousel*/
         height:40vh;
     }    
-
-
-    .bg-color-contact-headline{
-        border-radius:100%;
-    }
 }
 
 
 
 @media only screen and (min-width: 425px){
-    .hero-image-mobile{
+    .hero-image{
     height:50vh;
     }
 
@@ -484,7 +479,7 @@ li a:hover{
         width:12%;
     }
     
-    .hero-image-mobile{
+    .hero-image{
         height:60vh
     }
 
@@ -537,7 +532,7 @@ li a:hover{
      width:12%;
     }
 
-    .hero-image-mobile{
+    .hero-image{
     height:70vh;
         
     }
@@ -555,7 +550,7 @@ li a:hover{
 
 
 
-}
+
 
 
 
@@ -575,12 +570,8 @@ li a:hover{
     }
 
     .carousel-fade-images-tablet{
-        height:45vh;
+        height:40vh;
     }
-
-    
-
-
 
 }
 
