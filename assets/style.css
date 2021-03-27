@@ -323,6 +323,15 @@ li a:hover{
     }
 
 
+    .bg-img-why-animals-matters{
+        background-image: url("images/bg-why-animals-matters.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+
+
     .food-chain-cards{
         width:30%;
     }
@@ -380,18 +389,8 @@ li a:hover{
         width:100%;
     }
 
-    .bg-img-why-animals-matters{
-        background-image: url("images/bg-why-animals-matters.jpg");
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
-    }
 
-@media only screen and (max-width: 575px){
-    .carousel-slide-mobile-spacing{
-       margin-top: 20px;
-    }
-}
+
 
 
 @media only screen and (min-width: 320px){
@@ -420,69 +419,14 @@ li a:hover{
 } 
 
 
-@media only screen and (min-width: 425px){
-    .hero-image-mobile{
-    height:50vh;
-    }
-
-    .carousel-slide-mobile-images img{
-        height:45vh;
-    }
-
-    .carousel-fade-images-mobile img {
-        height:45vh;
-    }
-
-} 
 
 
-@media only screen and (min-width: 525px){
-    .navbar-brand{
-        width:12%;
-    }
-    
-    .hero-image-mobile{
-        height:60vh
-    }
 
-    .carousel-slide-mobile-images img{
-        height:50vh;
-    }
-
-    .carousel-fade-images-mobile img {
-        height:50vh;
-    }
+ 
 
 
-} 
 
-@media only screen and (min-width: 576px){
-    .different-animals-images-tablet{
-        height:35vh;
-    }
-}
-
-
-@media only screen and (min-width: 625px) and (max-width:767px){
-    
-    .navbar-brand{
-     width:12%;
-    }
-
-    .hero-image-mobile{
-    height:70vh;
-        
-    }
-
-    .carousel-slide-mobile-images img{
-        height:55vh;
-    }
-
-    .carousel-fade-images-mobile img {
-        height:60vh;
-    }
-
-} 
+ 
 
 
     
@@ -520,6 +464,94 @@ li a:hover{
 }
 
 
+
+@media only screen and (min-width: 425px){
+    .hero-image-mobile{
+    height:50vh;
+    }
+
+    .carousel-slide-mobile-images img{
+        height:45vh;
+    }
+
+    .carousel-fade-images-mobile img {
+        height:45vh;
+    }
+
+} 
+
+
+
+
+
+@media only screen and (min-width: 525px){
+    .navbar-brand{
+        width:12%;
+    }
+    
+    .hero-image-mobile{
+        height:60vh
+    }
+
+    .carousel-slide-mobile-images img{
+        height:50vh;
+    }
+
+    .carousel-fade-images-mobile img {
+        height:50vh;
+    }
+
+
+}
+
+
+@media only screen and (max-width: 575px){
+    .carousel-slide-mobile-spacing{
+       margin-top: 20px;
+    }
+}
+
+
+
+
+
+
+
+@media only screen and (min-width: 576px){
+    .different-animals-images-tablet{
+        height:35vh;
+    }
+}
+
+
+
+
+
+
+
+@media only screen and (min-width: 625px) and (max-width:767px){
+    
+    .navbar-brand{
+     width:12%;
+    }
+
+    .hero-image-mobile{
+    height:70vh;
+        
+    }
+
+    .carousel-slide-mobile-images img{
+        height:55vh;
+    }
+
+    .carousel-fade-images-mobile img {
+        height:60vh;
+    }
+
+}
+
+
+
 @media only screen and (min-width: 768px){
     
     .navbar-brand {
@@ -539,6 +571,7 @@ li a:hover{
         height:45vh;
     }
 
+    
 
 
 
