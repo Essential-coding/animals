@@ -12,6 +12,13 @@
 * Browsers: last 10 version
 */
 
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 10 version
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
 
@@ -536,5 +543,4 @@ li a:hover{
 
 
 }
-
 
