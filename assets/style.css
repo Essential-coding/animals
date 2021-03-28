@@ -287,7 +287,7 @@ li a:hover{
 /*----------------------------------------------------------------------------Nav ends*/
 
     
-        .carousel-inner{
+        #about-animals, aside, div.carousel-inner{
         border: 1px solid #000;
         border-radius:10%;
         height:inherit;
@@ -388,18 +388,14 @@ li a:hover{
     height:40vh;
     }
 
-    .card.different-animals-container img{
+    #different-animals article .card img{
         object-fit: cover;
         height:230px;
     }
 
 
 
-    .carousel-slide-mobile-images img {
-        height:35vh;
-    }
-
-    .carousel-fade-images-mobile img {
+    #about-animals, aside, div.carousel-slide img {
         height:35vh;
     }
 }
@@ -414,7 +410,7 @@ li a:hover{
         height:270px;
     }
 
-    .carousel-fade-images-mobile img {
+    #why-animals-matters article aside .carousel-fade img {
         height:40vh;
     }
 } 
@@ -428,7 +424,7 @@ li a:hover{
         width:18%;
     }
 
-   p {
+   body p {
     text-align:center;
     font-size:1rem;
      letter-spacing: 1px;
@@ -439,7 +435,7 @@ li a:hover{
 
 
 
-    .carousel-fade-images img{/*Fade-carousel*/
+    #why-animals-matters article aside .carousel-fade img{
         height:40vh;
     }    
 }
@@ -451,17 +447,17 @@ li a:hover{
     height:50vh;
     }
 
-    .carousel-slide-mobile-images img{
+    #about-the-animals aside .carousel-slide img{
         height:45vh;
     }
 
-     .card.different-animals-container img{
+     #different-animals article img{
         object-fit: cover;
         height:310px;
     }
 
 
-    .carousel-fade-images-mobile img {
+    #why-animals-matters article aside .carousel-fade img {
         height:45vh;
     }
 
@@ -481,30 +477,30 @@ li a:hover{
     }
 
 
-     .card.different-animals-container img{
+    #different-animals article, .card img{
         object-fit: cover;
         height:410px;
     }
 
-         .card-buttons{
+         #different-animals a.btn.btn-color.card-buttons{
         position: absolute;
         bottom: 10px;
         right: 15px;
         width:35%;
     }
 
-    .card-bottom-text{
+    #different-animals p.card-bottom-text{
         margin-bottom: 60px;
     }
 
 
 
-    .carousel-slide-mobile-images img{
+    #about-the-animals aside .carousel-slide img{
         height:40vh;
     }
 
 
-    .carousel-fade-images-mobile img {
+    #why-animals-matters article img {
         height:40vh;
     }
 
@@ -515,7 +511,7 @@ li a:hover{
 
 
 @media only screen and (max-width: 575px){
-    .carousel-slide-mobile-spacing{
+   #about-animals, aside div.carousel-slide{
        margin-top: 20px;
     }
 }
