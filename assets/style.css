@@ -393,6 +393,12 @@ li a:hover{
     height:40vh;
     }
 
+
+    .different-animals-images{
+        object-fit:contain;
+        width:100%;
+    }
+
     .carousel-slide-mobile-images img {
         height:35vh;
     }
@@ -443,10 +449,6 @@ li a:hover{
     }
 
 
-
-    .different-animal-images{
-        height:30vh;
-    }
 
     .carousel-fade-images img{/*Fade-carousel*/
         height:40vh;
