@@ -602,3 +602,16 @@ li a:hover{
 
 }
 
+@media only screen and (min-width: 992px){
+    .card.different-animals-container img{
+       object-fit:cover;
+       height:180px;
+   }
+
+   
+    .card-buttons{
+        width:55%;
+}
+}
+
+
