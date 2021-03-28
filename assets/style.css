@@ -388,10 +388,9 @@ li a:hover{
     height:40vh;
     }
 
-
-    .card.different-animals-images{
-        object-fit:contain;
-        width:100%;
+    .card.different-animals-container img{
+        object-fit: cover;
+        height:230px;
     }
 
 
@@ -407,8 +406,12 @@ li a:hover{
 
 @media only screen and (min-width: 375px){
     .carousel-slide-mobile-images img{
-    height:40vh;
-        
+    height:40vh;  
+    }
+
+     .card.different-animals-container img{
+        object-fit: cover;
+        height:300px;
     }
 
     .carousel-fade-images-mobile img {
@@ -452,6 +455,12 @@ li a:hover{
         height:45vh;
     }
 
+     .card.different-animals-container img{
+        object-fit: cover;
+        height:310px;
+    }
+
+
     .carousel-fade-images-mobile img {
         height:45vh;
     }
@@ -471,12 +480,18 @@ li a:hover{
         height:60vh
     }
 
+
+     .card.different-animals-container img{
+        object-fit: cover;
+        height:410px;
+    }
+
          .card-buttons{
         position: absolute;
         bottom: 10px;
         right: 15px;
         width:35%;
-}
+    }
 
     .card-bottom-text{
         margin-bottom: 60px;
