@@ -513,7 +513,13 @@ li a:hover{
        #about-animals aside #carouselControls{
         width:80%;
         margin:auto;
-}
+    }
+
+    #why-animals-matters aside #carouselFade{
+        width:80%;
+        margin:auto;
+    }
+
 }
 
 
@@ -532,7 +538,15 @@ li a:hover{
 
 @media only screen and (min-width: 576px){
     
-    .spacing-cards{
+     #about-animals aside div.carousel-slide img{
+        height:50vh;
+   }
+
+   #different-animals article .card img{
+       object-fit:cover;
+       height:200px;
+   }
+       .spacing-cards{
         margin: 10px 0;
     }
 
@@ -540,31 +554,26 @@ li a:hover{
         height:100%;
     }
 
-   #different-animals article .card img{
-       object-fit:cover;
-       height:200px;
-   }
-
-   #about-animals aside div.carousel-slide img{
-        height:50vh;
-   }
-
-
    #different-animals a.btn.btn-color.card-buttons {
        width:40%;
    }
-
 
     
 }
 
 
-@media only screen and (min-width: 576px) and (max-width:625px){
+@media only screen and (min-width: 576px) and (max-width:767.9px){
 
     #about-animals aside #carouselControls{
         width:80%;
         margin:auto;
 }
+     #why-animals-matters aside #carouselFade{
+        width:80%;
+        margin:auto;
+    }
+
+    
 
 }
 
@@ -605,11 +614,6 @@ li a:hover{
     height:70vh;
         
     }
-
-     #about-animals aside #carouselControls{
-        width:70%;
-        margin:auto;
-}
 
     #why-animals-matters article aside .carousel-fade img{
         height:60vh;
